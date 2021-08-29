@@ -1,5 +1,5 @@
 # MAGIC Implementation
-This is the codebase for "Multi-Agent Graph-Attention Communication and Teaming." The implementation is in three domains including Predator-Prey, Traffic-Junction, and Google Researh Football.
+This is the codebase for "MAGIC: Multi-Agent Graph-Attention Communication." The implementation is in three domains including Predator-Prey, Traffic-Junction, and Google Researh Football.
 
 ## Requirements
 * OpenAI Gym
