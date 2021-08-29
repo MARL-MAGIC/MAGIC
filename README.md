@@ -6,7 +6,7 @@ This is the codebase for "Multi-Agent Graph-Attention Communication and Teaming.
 * PyTorch 1.5 (CPU)
 * [visdom](https://github.com/facebookresearch/visdom)
 * Predator-Prey and Traffic Junction [Environments](https://github.com/apsdehal/ic3net-envs)
-* Fork from authors' version of [Google Research Football](https://github.com/google-research/football) (blocked for anonymity)
+* Fork from authors' version of [Google Research Football](https://github.com/google-research/football) (temporarily blocked for anonymity)
 
 
 ## Testing Environment Setup
@@ -22,7 +22,7 @@ This is the codebase for "Multi-Agent Graph-Attention Communication and Teaming.
   libsdl2-image-dev libsdl2-ttf-dev libsdl2-gfx-dev libboost-all-dev \
   libdirectfb-dev libst-dev mesa-utils xvfb x11vnc libsdl-sge-dev python3-pip
   ```
-  Install the game of author's version (added multi-agent observations and fixed some bugs, blocked for anonymity):  
+  Install the game of author's version (added multi-agent observations and fixed some bugs, temporarily blocked for anonymity):  
   ```
   git clone https://github.com/google-research/football.git
   cd football
